@@ -26,6 +26,8 @@ possuindo uma interface simples e agradavel para melhor coompreensão e manuseio
 
   **./main.cpp**
 
+  para mais informaçoes acesse: [installation.md] ()
+
 ## Guia de uso básico: 
 
 * execute o comando no terminal
