@@ -15,3 +15,8 @@ baixe o arquivo main e execute em um terminal.
 ```bash
 ./main
 ```
+
+caso o programa não execute use o seguinte comando:
+```bash
+g++ main.cpp -o ./main
+```
